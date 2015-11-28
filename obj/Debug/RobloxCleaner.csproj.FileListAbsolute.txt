@@ -1,0 +1,8 @@
+f:\users\sleepy\documents\visual studio 2013\Projects\RobloxCleaner\RobloxCleaner\bin\Debug\RobloxCleaner.exe.config
+f:\users\sleepy\documents\visual studio 2013\Projects\RobloxCleaner\RobloxCleaner\bin\Debug\RobloxCleaner.exe
+f:\users\sleepy\documents\visual studio 2013\Projects\RobloxCleaner\RobloxCleaner\bin\Debug\RobloxCleaner.pdb
+f:\users\sleepy\documents\visual studio 2013\Projects\RobloxCleaner\RobloxCleaner\obj\Debug\RobloxCleaner.Form1.resources
+f:\users\sleepy\documents\visual studio 2013\Projects\RobloxCleaner\RobloxCleaner\obj\Debug\RobloxCleaner.Properties.Resources.resources
+f:\users\sleepy\documents\visual studio 2013\Projects\RobloxCleaner\RobloxCleaner\obj\Debug\RobloxCleaner.csproj.GenerateResource.Cache
+f:\users\sleepy\documents\visual studio 2013\Projects\RobloxCleaner\RobloxCleaner\obj\Debug\RobloxCleaner.exe
+f:\users\sleepy\documents\visual studio 2013\Projects\RobloxCleaner\RobloxCleaner\obj\Debug\RobloxCleaner.pdb
